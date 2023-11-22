@@ -1,4 +1,4 @@
-Linux Shortcut Keys
+Linux Command Line Shortcut Keys
 
 Ctrl + A 		= Move to the beginning of the line
 Ctrl + E 		= Move to the end of the line
